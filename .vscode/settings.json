@@ -1,0 +1,6 @@
+{
+    "git.blame.editorDecoration.enabled": false,
+    "git.decorations.enabled": true,
+    "git.enabled": true,
+    "git.blame.statusBarItem.enabled": true
+}
